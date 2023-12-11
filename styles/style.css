@@ -1,0 +1,22 @@
+.site-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color: rgb(98, 203, 238);
+    background-color: rgb(210, 221, 226);
+}
+
+.recipe-list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+    color: rgb(26, 26, 201);
+    background-color: rgb(210, 221, 226);
+    list-style-type: decimal;
+}
+
+.recipe-link {
+    text-decoration: none;
+}
