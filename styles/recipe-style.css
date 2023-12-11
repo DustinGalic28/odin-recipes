@@ -1,0 +1,39 @@
+.recipe-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color: rgb(98, 203, 238);
+    background-color: rgb(210, 221, 226);
+}
+
+.recipe-image {
+
+}
+
+.section-title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.ingredient-list {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.list-steps {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 35px;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.list-steps li {
+    margin-bottom: 20px;
+    border: 2px solid red;
+}
